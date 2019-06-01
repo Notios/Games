@@ -1,7 +1,5 @@
-# Hangman  :boy:
+# A Simple Quiz Game
+I create simple text-based games in Python
 
-A Simple Quiz Game
-I create simple text-based games in Python 3
-
-### License
+## License
 George Loudaros, Coding Teacher in [ExpertIn Varis](https:expertvaris.com)
